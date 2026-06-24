@@ -5,9 +5,9 @@
 ### 🎓 Undergraduate | BSc (Hons) Information Technology — Data Science
 ### Sri Lanka Institute of Information Technology (SLIIT)
 
-[![Email](https://img.shields.io/badge/Email-MU.mohamaed.lk%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:MU.mohamed.lk@gmail.com)
+[![Email](https://img.shields.io/badge/Email-MU.mohamed.lk%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:MU.mohamed.lk@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohamed--Uwais-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-uwais)
 [![GitHub](https://img.shields.io/badge/GitHub-Mohamed--Uwais-181717?style=flat&logo=github&logoColor=white)](https://github.com/Mohamed-Uwais)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohamed--Uwais-0077B5?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/mohamed-uwais)
 
 </div>
 
@@ -15,14 +15,16 @@
 
 ## 🧠 About Me
 
-I'm a Data Science undergraduate at SLIIT with a strong focus on building full-stack applications, AI-powered systems, and data-driven solutions. I don't just study technology — I apply it. I founded and run my own e-commerce business, which led me to build a production-ready POS system from scratch to manage real daily operations.
+I'm a Data Science undergraduate at the Sri Lanka Institute of Information Technology (SLIIT), passionate about turning data into meaningful insights and building real-world solutions that make an impact.
+
+What sets me apart is that I don't just study technology — I apply it. I founded and run my own e-commerce business, which led me to build a full-stack POS system from scratch to manage real daily operations. This hands-on experience gives me a practical edge that goes beyond the classroom.
 
 - 🎓 BSc (Hons) IT — Data Science Specialization @ SLIIT, Sri Lanka
-- 💼 Founder of a home-based e-commerce business
+- 💼 Entrepreneur — applying technology to solve real business problems
 - 🤖 Built an AI-powered HR recruiting platform using NLP, RAG & Generative AI
 - 🔨 Delivered 5 real-world projects across full-stack, mobile, and AI domains
 - 🌱 Currently deepening expertise in: Express.js · Advanced SQL · Machine Learning
-- 🎯 Seeking internship opportunities in Data Science / Full Stack Development
+- 🎯 Seeking internship opportunities in Data Science / Data Analytics
 
 ---
 
@@ -75,49 +77,50 @@ I'm a Data Science undergraduate at SLIIT with a strong focus on building full-s
 
 ---
 
-### 🏪 POS & Business Management System
-> A production-ready full-stack Point of Sale system built and deployed for my own e-commerce business
+### 🤖 AI-Powered HR Recruiting Platform *(Team Project — 6 Members)*
+> An end-to-end intelligent recruitment system that automates and enhances the hiring process
+
+**Tech Stack:** Python · NLP · RAG · Hugging Face Models · Generative AI
+
+**My Contribution:**
+- Built the AI-based Interview Question Generator — generating personalized interview questions based on candidate profiles and job requirements
+- Developed the AI-powered Job Description Generator using Generative AI
+
+**Overall System Features:**
+- Automated CV screening and parsing
+- AI-driven candidate ranking and scoring
+- Side-by-side candidate comparison with AI-generated insights
+- Automated candidate email generation
+
+---
+
+### 🏪 Full-Stack POS & Business Management System *(Solo Project)*
+> A production-ready system built and deployed for real daily business operations
 
 **Tech Stack:** React 18 · Node.js · Express.js · MySQL 8 · Tailwind CSS · Zustand · Recharts · Vite
 
 | Feature | Description |
 |--------|-------------|
-| 🧾 Billing & Invoicing | Bill generation with image export via html2canvas |
-| 📦 Inventory Management | Real-time stock tracking and low-stock alerts |
-| 📊 Sales Analytics | Visual dashboards and reports using Recharts |
-| 👥 Multi-User Access | Role-based access over local network (LAN) |
-| 💾 Automated Backups | Scheduled database backups via node-cron |
+| 🧾 Billing & Invoicing | Bill generation with image export |
+| 📦 Inventory Management | Real-time stock tracking and alerts |
+| 📊 Sales Analytics | Visual dashboards and reports |
+| 👥 Multi-User Access | Role-based access over LAN |
+| 💾 Automated Backups | Scheduled database backups |
 
 > Not a tutorial project — actively running a real business.
 
 ---
 
-### 🤖 AI-Powered HR Recruiting Platform *(Team Project)*
-> An end-to-end intelligent recruitment system that automates and enhances the hiring process
-
-**Tech Stack:** Python · NLP · RAG · Hugging Face Models · Generative AI
-
-| Feature | Description |
-|--------|-------------|
-| 📄 CV Screening | Automated parsing and evaluation of candidate resumes |
-| 🏆 Candidate Ranking | AI-driven scoring and ranking of applicants |
-| 🔍 Candidate Comparison | Side-by-side comparison with AI-generated insights on best fit |
-| 📧 Email Generation | Automated personalized candidate communication |
-| 🎯 Interview Generation | Personalized interview questions based on candidate profile |
-| 📋 Job Description Builder | AI-assisted job description generation |
-
-> Leverages RAG architecture and Hugging Face models to deliver accurate, context-aware hiring decisions.
-
----
-
-### 📱 Learning Management System — Mobile App *(Team Project)*
-> A mobile LMS application providing an accessible and interactive learning experience
+### 📱 Learning Management System — Mobile App *(Team Project — 6 Members)*
+> A cross-platform mobile LMS built with React Native & Expo
 
 **Tech Stack:** React Native · Expo
 
-- 📚 Course and module management
-- 📱 Cross-platform mobile experience (iOS & Android)
-- 🔔 Notifications and progress tracking
+**My Contribution:**
+- Developed the complete Internship Tracking & Management module
+- Students can submit, manage and update weekly internship logs
+- Lecturers can approve, reject and add comments on submissions
+- Admin and lecturers manage internship approvals and reviews
 
 ---
 
@@ -126,20 +129,20 @@ I'm a Data Science undergraduate at SLIIT with a strong focus on building full-s
 
 **Tech Stack:** HTML · CSS · JavaScript
 
-- 🔎 Vehicle search and filter system
-- 📋 Detailed car listing pages
-- 📬 Buyer-seller contact flow
+- Vehicle listings with advanced search and filter
+- Detailed car listing pages with specifications
+- Buyer-seller contact flow
 
 ---
 
 ### 🏥 Healthcare & Patient Monitoring Website *(Web Project)*
-> A healthcare web application focused on patient monitoring and health data management
+> A healthcare web application for patient monitoring and health data management
 
 **Tech Stack:** HTML · CSS · JavaScript
 
-- 🩺 Patient health data display and monitoring
-- 📊 Health metrics tracking interface
-- 🔒 Clean and accessible UI design
+- Patient health data display and monitoring
+- Health metrics tracking interface
+- Clean and accessible responsive UI
 
 ---
 
@@ -171,9 +174,9 @@ BSc (Hons) Information Technology — Data Science Specialization
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-MU.mohamaed.lk%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:MU.mohamaed.lk@gmail.com)
+[![Email](https://img.shields.io/badge/Email-MU.mohamed.lk%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:MU.mohamed.lk@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohamed--Uwais-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-uwais)
 [![GitHub](https://img.shields.io/badge/GitHub-Mohamed--Uwais-181717?style=flat&logo=github&logoColor=white)](https://github.com/Mohamed-Uwais)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Coming%20Soon-0077B5?style=flat&logo=linkedin&logoColor=white)]()
 
 </div>
 
