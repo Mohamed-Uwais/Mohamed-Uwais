@@ -5,9 +5,9 @@
 ### 🎓 Undergraduate | BSc (Hons) Information Technology — Data Science
 ### Sri Lanka Institute of Information Technology (SLIIT)
 
-[![Email](https://img.shields.io/badge/Email-MU.mohamaed.lk%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:MU.mohamaed.lk@gmail.com)
+[![Email](https://img.shields.io/badge/Email-MU.mohamaed.lk%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:MU.mohamed.lk@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Mohamed--Uwais-181717?style=flat&logo=github&logoColor=white)](https://github.com/Mohamed-Uwais)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Coming%20Soon-0077B5?style=flat&logo=linkedin&logoColor=white)]()
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohamed--Uwais-0077B5?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/mohamed-uwais)
 
 </div>
 
